@@ -2,13 +2,13 @@
 Site desenvolvido no curso [Origamid](https://www.origamid.com/) - Web design Completo
 Ministrado por André Rafael
 
-##Tecnologias utilizadas:
+## Tecnologias utilizadas:
 - HTML
 - CSS
 - JavaScript
 - PHP
 
-##Temas abordados:
+## Temas abordados:
 - Teoria do Design (Fundamentos / UX / UI)
 - Prototipação (Photoshop)
 - Responsividade
